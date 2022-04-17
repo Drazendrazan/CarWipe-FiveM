@@ -32,6 +32,8 @@ A script that allows you to run a carwipe every so often (hours/minutes), this w
   _This script has a version check, new versions will be released regularly, so you can see it right at the start of the server._
   
 # Download and preview
+[FiveM Post](https://forum.cfx.re/t/release-free-carwipe-fivem/4839898)
+
 [PREVIEW v1.1.0](https://youtu.be/58E7WdJvPlQ)
 
 [DOWNLOAD](https://github.com/LucaNL/CarWipe-FiveM/archive/refs/heads/main.zip) 
