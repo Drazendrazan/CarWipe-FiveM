@@ -38,6 +38,10 @@ A script that allows you to run a carwipe every so often (hours/minutes), this w
 
 [DOWNLOAD](https://github.com/LucaNL/CarWipe-FiveM/archive/refs/heads/main.zip) 
 
+### Requirements
+
+- [cron.zip|attachment](upload://bSrQkR78Dpy9HSCLK0rnlWxiH0p.zip) (14.1 KB) - For the automatic carwipe's every hour
+
 ### How to install
 1. Download the recource
 2. Change the config in config.lua and take a look at the server.lua for adjustments
