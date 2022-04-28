@@ -40,7 +40,7 @@ A script that allows you to run a carwipe every so often (hours/minutes), this w
 
 ### Requirements
 
-- [cron.zip|attachment](upload://bSrQkR78Dpy9HSCLK0rnlWxiH0p.zip) (14.1 KB) - For the automatic carwipe's every hour
+- [cron](https://github.com/esx-framework/cron/archive/refs/heads/master.zip) - For the automatic carwipe's every hour
 
 ### How to install
 1. Download the recource
